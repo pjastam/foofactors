@@ -7,7 +7,9 @@
 fbind(a, b)
 }
 \arguments{
-\item{b}{}
+\item{a}{First input factor.}
+
+\item{b}{Second input factor.}
 }
 \value{
 factor
